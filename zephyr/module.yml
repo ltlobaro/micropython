@@ -1,4 +1,1 @@
 name: micropython
-build:
-  cmake-ext: True
-  kconfig-ext: True
